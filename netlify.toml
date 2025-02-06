@@ -1,4 +1,4 @@
 [build]
-  base = "product-preview-card-component-main"
+  base = ""
   publish = "."
   command = ""
