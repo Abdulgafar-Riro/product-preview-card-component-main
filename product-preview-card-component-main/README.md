@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/product-preview-card)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Abdulgafar-Riro/product-preview-card-component-main/tree/branches-4)
+- Live Site URL: [Live Demo]([https://your-live-site-url.com](https://webmujahid-product-preview-card.netlify.app/))
 
 ## My process
 
