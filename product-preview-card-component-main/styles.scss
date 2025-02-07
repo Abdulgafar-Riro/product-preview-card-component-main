@@ -77,7 +77,7 @@ body {
 .selling-price {
   font-size: 3rem;
   font-weight: 700;
-  font-family: 'Montserrat', serif;
+  font-family: 'Fraunces', serif;
   color: var(--Dark-cyan);
 }
 
@@ -114,12 +114,15 @@ button:hover {
 }
 
 @media (min-width: 35rem) {
+  body {
+    width: 100vh;
+  }
   .product-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: normal;
-    width: 51rem;
+    width: 55rem;
     margin: 8rem auto 2rem;
   }
 
