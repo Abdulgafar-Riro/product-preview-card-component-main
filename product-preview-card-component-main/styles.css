@@ -128,6 +128,7 @@ button:hover {
   }
   .product-image {
     height: 100%;
+    width: 100%;
     object-fit: cover;
     border-top-left-radius: 0.8rem;
     border-top-right-radius: 0;
