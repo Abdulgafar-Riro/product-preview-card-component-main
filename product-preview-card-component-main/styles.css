@@ -76,7 +76,7 @@ body {
 .product-cost {
   display: flex;
   align-items: center;
-  margin: 1.5rem 0;
+  margin: 2rem 0;
 }
 
 .selling-price {
@@ -135,7 +135,7 @@ button:hover {
     border-bottom-left-radius: 0.8rem;
   }
   .right-section {
-    padding: 3rem;
+    padding: 4rem 3rem;
     border-top-right-radius: 0.8rem;
     border-bottom-right-radius: 0.8rem;
   }
