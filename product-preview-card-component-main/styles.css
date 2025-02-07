@@ -124,7 +124,7 @@ button:hover {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: stretch;
-    width: 51rem;
+    width: 54rem;
   }
   .product-image {
     height: 100%;
@@ -135,6 +135,7 @@ button:hover {
     border-bottom-left-radius: 0.8rem;
   }
   .right-section {
+    padding: 3rem;
     border-top-right-radius: 0.8rem;
     border-bottom-right-radius: 0.8rem;
   }
