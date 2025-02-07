@@ -42,7 +42,6 @@ body {
   justify-content: center;
   align-items: center;
   width: 30rem;
-  margin: 4rem auto 2rem;
   background-color: var(--White);
   border-radius: 0.8rem;
   font-weight: 500;
@@ -52,6 +51,7 @@ body {
 
 .right-section {
   padding: 2.2rem;
+  margin-bottom: 0;
 }
 
 .product {
